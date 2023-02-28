@@ -16,8 +16,7 @@ data and evaluate and report its performance (by error rate) on the testing data
 – Report the results on the two data sets.
 Note: To train a regularized logistic regression by liblinear library, you can use the option “-s
 0”.
-##
-Support Vector Machine
+## Support Vector Machine
 • Repeat the same experiments as in Problem 1 by using linear SVM. To train a linear SVM by
 liblinear you can use the option “-s 3”.
 • Repeat the same experiments as in Problem 1 by using kernel SVM. To train a kernel SVM by
